@@ -51,7 +51,7 @@ body.active-menu-mobile{
 h1{  
     font-size: 5.2rem;
     line-height: 130%;
-    color: #fff;
+    color: #323F8D;
 }
 
 h2{  
@@ -436,3 +436,10 @@ img{
         text-align: center;
     }
 }
+
+#testeForm {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
